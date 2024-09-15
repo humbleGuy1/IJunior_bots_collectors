@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3918ace645ad64049bebd3f10fa9cb2b, type: 3}
   m_Name: GridConfig
   m_EditorClassIdentifier: 
-  <SizeX>k__BackingField: 100
-  <SizeZ>k__BackingField: 100
-  <CellSizeX>k__BackingField: 10
-  <CellSizeY>k__BackingField: 10
+  <SizeX>k__BackingField: 1000
+  <SizeZ>k__BackingField: 1000
+  <CellSizeX>k__BackingField: 100
+  <CellSizeZ>k__BackingField: 100
